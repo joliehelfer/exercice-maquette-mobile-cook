@@ -17,6 +17,9 @@
 
 html {
   font-size: 16px;
+  text-align: center;
+  width: 320px;
+  margin: auto;
 }
 
 body {
@@ -42,3 +45,6 @@ video {
 /* ====================================
 // base rules
 // ==================================== */
+
+header {
+}
