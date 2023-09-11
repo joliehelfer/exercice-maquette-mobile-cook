@@ -109,3 +109,20 @@ h2 {
 .recipes {
   margin-bottom: 20px;
 }
+
+.summer-pastas {
+  background: #fff;
+  padding: 10px;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  text-align: left;
+  padding: 25px 15px 25px 15px;
+}
+
+.lastest-info {
+  display: flex;
+  flex-direction: column;
+}
