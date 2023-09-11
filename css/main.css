@@ -69,14 +69,14 @@ nav {
   padding: 10px 10px 30px 10px;
 }
 
-container-main,
+.recipes-day,
 .name-cooker {
   font-family: "Libre Franklin";
   text-transform: uppercase;
   font-weight: 700;
 }
 
-.container-main {
+.recipes-day {
   font-size: 11px;
   color: #fff;
   text-transform: uppercase;
