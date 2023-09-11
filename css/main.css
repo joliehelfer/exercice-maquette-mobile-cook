@@ -82,3 +82,8 @@ container-main,
   text-transform: uppercase;
   font-weight: 700;
 }
+
+.cook-of-the-week {
+  padding: 20px 15px 20px 15px;
+  background: hsl(88, 27%, 90%);
+}
