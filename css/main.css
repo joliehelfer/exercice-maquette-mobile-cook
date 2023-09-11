@@ -47,4 +47,16 @@ video {
 // ==================================== */
 
 header {
+  background: #fff;
+  margin-bottom: 10px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  font-size: 16px;
+}
+
+.infos {
+  padding: 15px 40px 15px 40px;
 }
